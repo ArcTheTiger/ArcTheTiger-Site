@@ -11,6 +11,7 @@ services:
 plan1: name
     description: better lol
          check: true
+         price-description: Starting from $1.00
     features:
     - 
     -
@@ -19,6 +20,7 @@ plan1: name
 plan2: name
     description: better 2
         check: true
+        price-description: Starting from $1.00
     features:
     -
     -
@@ -27,6 +29,7 @@ plan2: name
 plan3: name
     desctiption: better3
          check: true
+         price-description: Starting from $1.00
     features:
     -
     -

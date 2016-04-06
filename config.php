@@ -39,3 +39,15 @@ plan3: name
     -
     -
 ###################################################
+
+###################################################
+#  Main Page
+###################################################
+Site-Title: Test 
+About-me:
+   custom1: Work Ethic
+     description: i love working cause its my jon
+   custom1: Experience
+     description: i have alot of things lol
+   custom1: Client
+     description: i made 838 cliet lol

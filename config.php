@@ -1,7 +1,7 @@
 #Configuration file
 
 ###################################################
-#  MAIN SITE
+#  Services PAGE
 ###################################################
 Site-Title: Test 
 Backgroundu-url: 

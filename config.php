@@ -8,5 +8,24 @@ Backgroundu-url:
 services:
    name1: Codding
      description: i love codding lol cause i love codding
-   name2: Website designer
-     description: i've been making site lol  for  fun
+plan1: name
+    description: better lol
+    features:
+    -
+    -
+    -
+    -
+plan2: name
+    description: better 2
+    features:
+    -
+    -
+    -
+    -
+plan3: name
+    desctiption: better3
+    features:
+    -
+    -
+    -
+    -
